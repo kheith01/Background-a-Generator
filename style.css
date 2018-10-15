@@ -1,0 +1,50 @@
+.done{
+	color: gray;
+	text-decoration: line-through;
+}
+.classUl{
+	background-color: blue;
+	color: white;
+}
+.RedText{
+	color: red;
+	font-size: 3em;
+	font-weight: bold;
+}
+
+.backcolor{
+	background-color: orange;
+
+}
+
+.colorCont{
+	width: 600px;
+	margin: auto;
+	text-align: center;
+	padding: 20px 0;
+}
+.contText{
+	width: 600px;
+	margin: auto;
+	text-align: center;
+	padding: 20px 0;
+}
+h1{
+	text-transform: uppercase;
+	padding: 3px 5px;
+	margin: 0;
+	text-align: center;
+	letter-spacing: 5px;
+}
+.bcont{
+	background: linear-gradient(to right, #ff8040, #ffff00);
+}
+#reset{
+	margin: 10px;
+	padding: 5px;
+	font-size: 1em;
+	font-family: courier;
+}
+.reset{
+background: linear-gradient(to right, #ff8040, #ffff00);
+}

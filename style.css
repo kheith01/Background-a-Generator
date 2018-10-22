@@ -48,3 +48,12 @@ h1{
 .reset{
 background: linear-gradient(to right, #ff8040, #ffff00);
 }
+
+#newLine{
+	font-family: "courier";
+	font-size: 3.5em;
+	color: red;
+	text-align: center;
+	text-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+
+}
